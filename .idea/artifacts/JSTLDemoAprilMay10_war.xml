@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="JSTLDemoAprilMay10:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="JSTLDemoAprilMay10-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="JSTLDemoAprilMay10:war exploded" />
+    </root>
+  </artifact>
+</component>
